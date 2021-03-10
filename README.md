@@ -1,4 +1,5 @@
-## React Native app 
+## Project title
+This React Native application is a test implementation for demonstration of how questionnaire can be combined with Google Maps Api. For now, the current implementation works for android and ios.
 
 ## Getting Started
 
